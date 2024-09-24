@@ -2,37 +2,25 @@
 
 ## Theory Digital Assessment 
 
-Dataset Provided: Palmer Archipelago (Antarctica) penguin dataset
+Dataset Provided: Palmer Archipelago (Antarctica) penguin dataset [Github](https://github.com/allisonhorst/palmerpenguins/tree/main)
 
-### Module 2: Data Transformation 
-- [ ] Discretization and Binning
-- [ ] Handling Missing Data
-  - [ ] Traditional Methods
-    - [ ] Removing Values
-    - [ ] Replacing Values
-  - [ ] Maximum Likelihood Estimation
+### Module 2: Data Transformation
+- [ X ] Handling Missing Data
+  - [ X ] Removing Values
+  - [ X ] Replacing Values - Single IMputation, Multiple Imputation
 
 ### Module 3: Correlation Analysis and Time Series Analysis 
-- [ ] Univariate Analysis
-- [ ] Bivariate Analysis
-- [ ] Multivariate Analysis
-- [ ] Time Series Analysis (TSA) (Not applicable for the given dataset)
-  - [ ] Fundamentals of TSA
-  - [ ] Characteristics of TSA
-  - [ ] Time-Based Indexing
-  - [ ] Visualizing Time Series
-  - [ ] Grouping Time Series Data
-  - [ ] Resampling Time Series Data
+- [ X ] Univariate Analysis
+- [ X ] Bivariate Analysis
+- [ X ] Multivariate Analysis
 
 ### Module 4: Data Summarization and Visualization
-- [ ] Statistical Summary Measures
-- [ ] Data Elaboration
-- [ ] 1-D Statistical Data Analysis
-- [ ] 2-D Statistical Data Analysis
-- [ ] N-D Statistical Data Analysis
-- [ ] Visualization Techniques:
-  - [ ] Scatter Plots
-  - [ ] Dot Charts
-  - [ ] Bar Plots
+- [ X ] Statistical Summary Measures
+- [ X ] 1-D Statistical Data Analysis
+- [ X ] 2-D Statistical Data Analysis
+- [ X ] N-D Statistical Data Analysis
+- [ X ] Visualization Techniques:
+  - [ X ] Scatter Plots
+  - [ X ] Bar Plots
 
 ---
