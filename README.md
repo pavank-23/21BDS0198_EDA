@@ -7,7 +7,7 @@ Dataset Provided: Palmer Archipelago (Antarctica) penguin dataset [Github](https
 ### Module 2: Data Transformation
 - [X] Handling Missing Data
   - [X] Removing Values
-  - [X] Replacing Values - Single IMputation, Multiple Imputation
+  - [X] Replacing Values - Single Imputation, Multiple Imputation
 
 ### Module 3: Correlation Analysis and Time Series Analysis 
 - [X] Univariate Analysis
@@ -23,4 +23,14 @@ Dataset Provided: Palmer Archipelago (Antarctica) penguin dataset [Github](https
   - [X] Scatter Plots
   - [X] Bar Plots
 
+### Module 5: Clustering Algorithms
+- [X] K-Means Clustering
+- [X] Agglomerative Clustering
+- [X] Spectral Clustering
+
+### Module 6: Dimensionality Reduction
+- [X] PCA
+
+### Module 7: Model Development and Evaluation
+- [X] Linear Regression Model
 ---
